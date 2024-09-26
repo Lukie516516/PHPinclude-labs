@@ -406,7 +406,7 @@ bp抓包尝试user-agent注入phpinfo成功
 
 ### Level 15 LFI_Session文件包含
 
-
+存在phpseeion
 
 ###  Level 16 FilterChain:THE_END_OF_LFI
 
