@@ -402,7 +402,7 @@ bp抓包尝试user-agent注入phpinfo成功
 
 (小声说一句这个洞只有你猜到路径才有，一般来说不会是默认路径)
 
-![level14](E:\hello ctf\PHPinclude-labs-main\assets\level14.png)
+![image-20240806112106652](./assets/level14.png)
 
 ### Level 15 LFI_Session文件包含
 
