@@ -388,11 +388,21 @@ RFI-  Remote File Inclusion,远程文件包含: 读取并执行远程服务器�
 
 ### Level 13 LFI_日志文件包含\_Nginx
 
+访问日志文件，可以成功读取
 
+bp抓包尝试user-agent注入phpinfo成功
+
+写入一句话木马
+
+后台链接
 
 ### Level 14 LFI_日志文件包含\_Apache
 
+同level 13，日志文件路径不同。
 
+(小声说一句这个洞只有你猜到路径才有，一般来说不会是默认路径)
+
+![level14](E:\hello ctf\PHPinclude-labs-main\assets\level14.png)
 
 ### Level 15 LFI_Session文件包含
 
